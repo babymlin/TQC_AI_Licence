@@ -15,4 +15,4 @@
 
 ## 2021/05/11 update by ChienMing Lin
 
-![Q_大頭照](D:\onedrive\Documents\Q_大頭照.png)
+![image](https://github.com/babymlin/TQC_AI_Licence/blob/main/Q_%E5%A4%A7%E9%A0%AD%E7%85%A7.png?raw=true)
